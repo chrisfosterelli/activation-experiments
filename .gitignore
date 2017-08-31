@@ -1,4 +1,5 @@
 node_modules
+weights.json
 env
 __pycache__
 *.pyc
